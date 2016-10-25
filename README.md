@@ -4,8 +4,7 @@
 
 Make sure to have
 [Python3](https://www.python.org/downloads/), and all dependencies for
-[NumPy, SciPy](http://www.scipy.org/scipylib/download.html) and
-[matplotlib](http://matplotlib.org/users/installing.html).
+[NumPy, SciPy](http://www.scipy.org/scipylib/download.html).
 
 Then install the python packages via pip:
 ```
@@ -14,8 +13,10 @@ pip3 install -r requirements.txt
 
 ## Execution
 
+How to run the MultivariateRegression example:
+
 ```
-python3 example.py
+jupyter-notebook MultivariateRegression.ipynb
 ```
 
 ## Links
@@ -26,7 +27,6 @@ python3 example.py
 * [Wine](http://openmv.net/info/wine-doe)
 * [Sleeping Mammals](http://www.statsci.org/data/general/sleep.html)
 * [Distillation Tower](http://openmv.net/info/distillation-tower)
-* [Blog Feedback](https://archive.ics.uci.edu/ml/datasets/BlogFeedback)
 * ... (only numerical or binary nominal features)
 
 ### Dimensionality Reduction
