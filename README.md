@@ -1,5 +1,7 @@
 # Dimensionality Reduction: Multivariate Modeling
 
+[![Launch Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jstriebel/multi-dim-red)
+
 ## Installation
 
 Make sure to have
